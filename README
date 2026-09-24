@@ -1,0 +1,1 @@
+Implementace synchronizačního problému Faneuil Hall Problem. Překlad pomocí příkazu `make`, implementaci je možno otestovat pomocí shell skriptu `skriptos`, který je schopen odhalit většinu základních synchronizačních chyb. Jeho úspěšné proběhnutí však nezaručuje správnost programu, pouze dokazuje vysokou úspěšnost. Průběh testování může trvat až 30 minut.
